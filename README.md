@@ -1,0 +1,2 @@
+A Flutter-based employee attendance management app designed to simplify attendance tracking.
+ Employees can mark their attendance, while admins have the ability to accept or remove leave requests, ensuring smooth management of employee attendance and leaves.
